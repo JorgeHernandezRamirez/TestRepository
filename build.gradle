@@ -21,7 +21,6 @@ configurations {
 
 
 group 'org.jorgehernandezramirez.kotlin'
-version '1.0.2-SNAPSHOT'
 
 apply plugin: 'maven'
 apply plugin: 'kotlin'
